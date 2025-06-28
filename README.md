@@ -2,7 +2,7 @@
 
 
 ## Arquitectura desplegada
-https://catalog.workshops.aws/serverless-patterns/en-US/module1
+- https://catalog.workshops.aws/serverless-patterns/en-US/module1
 
 
 ## Subir el grafana-oss
@@ -28,10 +28,10 @@ Se debe agregar una fuente de datos (DataSource)
 ## Configurar los dashboards
 Ahora agregar los dashboard
 
-https://grafana.com/grafana/dashboards/17741-aws-dynamodb/
-https://grafana.com/grafana/dashboards/593-aws-lambda/
-https://grafana.com/grafana/dashboards/11267-aws-lambda/
-https://grafana.com/grafana/dashboards/19734-aws-lambda-insights/
+- https://grafana.com/grafana/dashboards/17741-aws-dynamodb/
+- https://grafana.com/grafana/dashboards/593-aws-lambda/
+- https://grafana.com/grafana/dashboards/11267-aws-lambda/
+- https://grafana.com/grafana/dashboards/19734-aws-lambda-insights/
 
 ## Referencia
-https://grafana.com/docs/grafana/latest/datasources/aws-cloudwatch/
+- https://grafana.com/docs/grafana/latest/datasources/aws-cloudwatch/
